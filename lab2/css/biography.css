@@ -66,22 +66,27 @@ h1 {
 	 }
 	 
 	#Inf {
+		text-decoration: none;
 		background-color:steelblue;
 		color:bisque;
 	}
 	#Kinder {
+		text-decoration: none;
 		background-color:bisque;
 		color:darkkhaki;
 		}
 		#School {
+			text-decoration: none;
 		background-color:darkkhaki;
 		color:silver;
 		}
 		#Out {
+			text-decoration: none;
 		background-color:silver;
 		color:teal;
 		}
 		#University {
+			text-decoration: none;
 		background-color:teal;
 		color:tan;
 		}
