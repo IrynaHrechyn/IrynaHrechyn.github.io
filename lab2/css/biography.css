@@ -31,8 +31,9 @@ h1 {
 	  
 		}
 	.button:hover {
-		color:moccasin;
 		text-decoration: none;
+		color:moccasin;
+		 
   	        background-color: magenta;
    	        border: 1px;
 		padding: 11px 25px;
@@ -44,9 +45,10 @@ h1 {
 	 border-radius: 6px;
 	  
 	}
-	.button:active {
-		color:tomato;
+	 .button:active {
 		 text-decoration: none;
+		color:tomato;
+		  
     background-color: yellow;
     border: 1px;
 	 padding: 11px 25px;
