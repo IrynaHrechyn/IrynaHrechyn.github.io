@@ -1,0 +1,91 @@
+h1 {
+	text-align: center;
+	font-size: 22px;
+	}
+	
+	header a{
+	font-style: italic;
+	}
+	
+	#zmist {
+	text-align: center;
+	}
+	#Uni {
+		font-weight:bold ;
+	}
+		li {
+			list-style: none;
+		}
+	.button {
+		color:lightblue;
+		text-decoration: none;
+		background-color: darkblue;
+		border: 1px;
+		 padding: 11px 25px;
+		 text-decoration: none;
+    display: block;
+	 border-style: solid;
+	 border-width: 1px;
+	 width: 170px;
+	 border-radius: 6px;
+	  
+		}
+	.button:hover {
+		color:moccasin;
+		text-decoration: none;
+    background-color: magenta;
+    border: 1px;
+	 padding: 11px 25px;
+	 text-decoration: none;
+    display:block;
+	 border-style: solid;
+	 border-width: 1px;
+	 width: 170px;
+	 border-radius: 6px;
+	  
+	}
+	.button:active {
+		color:tomato;
+		 text-decoration: none;
+    background-color: yellow;
+    border: 1px;
+	 padding: 11px 25px;
+	 text-decoration: none;
+    display: block;
+	 border-style: solid;
+	 border-width: 1px;
+	 width: 170px;
+	 border-radius: 6px;
+	
+	}
+	 article {
+		font-size: 120%; 
+	 }
+	 .sky {
+		font-size: 140%; 
+	 }
+	 
+	#Inf {
+		background-color:steelblue;
+		color:bisque;
+	}
+	#Kinder {
+		background-color:bisque;
+		color:darkkhaki;
+		}
+		#School {
+		background-color:darkkhaki;
+		color:silver;
+		}
+		#Out {
+		background-color:silver;
+		color:teal;
+		}
+		#University {
+		background-color:teal;
+		color:tan;
+		}
+		[href='#neverever']{
+    text-transform:uppercase;
+  }
+		
