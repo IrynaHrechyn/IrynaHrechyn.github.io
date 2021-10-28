@@ -33,9 +33,9 @@ h1 {
 	.button:hover {
 		color:moccasin;
 		text-decoration: none;
-    background-color: magenta;
-    border: 1px;
-	 padding: 11px 25px;
+  	        background-color: magenta;
+   	        border: 1px;
+		padding: 11px 25px;
 
     display:block;
 	 border-style: solid;
