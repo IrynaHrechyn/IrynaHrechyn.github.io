@@ -21,6 +21,7 @@ h1 {
 		vertical-align: middle;
  	 text-align: center;
  	 text-decoration: none;
+		outline: none;
 		background-color: darkblue;
 		border: 1px;
 		 padding: 11px 25px;
