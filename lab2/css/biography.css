@@ -18,7 +18,7 @@ h1 {
 		}
 	.button{
   padding: 11px 25px;
-  display: inline-block;
+  display: block;
   width: 10em;
   height: 2.5em;
   line-height: 2.5em;
