@@ -26,8 +26,6 @@ a{
    padding: 11px 25px;
   display: block;
   width: 170px;
-  height: 2.5em;
-  line-height: 2.5em;
   vertical-align: middle;
   text-align: center;
   text-decoration: none;
@@ -44,7 +42,7 @@ a{
     text-decoration: none;
     background:  magenta;
     color: moccasin;
-	border: 1px solid #ff4500;
+	border: 1px ;
 	border-radius: 6px;
     }
 	 .button:active{
