@@ -20,8 +20,6 @@ h1 {
   padding: 11px 25px;
   display: block;
   width: 170px;
-  height: 2.5em;
-  line-height: 2.5em;
   vertical-align: middle;
   text-align: center;
   text-decoration: none;
@@ -30,15 +28,14 @@ h1 {
   border: 1px ;
   border-style: solid;
   border-radius: 6px;
-  text-shadow: 0 -1px 1px #777;
-  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #800;
+  
   background: linear-gradient(#87CEFA, #4682B4, #4682B4, #87CEFA);
 }
 	.button:hover {
     text-decoration: none;
     background:  magenta;
     color: moccasin;
-	border: 1px solid #ff4500;
+	border: 1px ;
 	border-radius: 6px;
     }
 	 .button:active{
