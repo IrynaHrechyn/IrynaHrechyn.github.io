@@ -17,8 +17,8 @@ h1 {
 			list-style: none;
 		}
 	.button{
-   
-  display: block;
+   padding: 11px 25px;
+  display: inline-block;
   width: 170px;
   height: 2.5em;
   line-height: 2.5em;
