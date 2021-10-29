@@ -16,6 +16,9 @@ h1 {
 		li {
 			list-style: none;
 		}
+p{
+ text-decoration: none;
+}
 	.button{
    padding: 11px 25px;
   display: block;
