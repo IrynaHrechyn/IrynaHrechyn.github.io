@@ -16,6 +16,9 @@ h1 {
 		li {
 			list-style: none;
 		}
+[href="index.html"]{
+text-decoration: none;
+}
 a{
  text-decoration: none;
 }
