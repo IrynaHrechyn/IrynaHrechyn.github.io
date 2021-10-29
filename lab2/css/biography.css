@@ -18,8 +18,9 @@ h1 {
 		}
 	.button {
 		color:lightblue;
-		font-style: none;
-		text-decoration: none;
+		vertical-align: middle;
+ 	 text-align: center;
+ 	 text-decoration: none;
 		background-color: darkblue;
 		border: 1px;
 		 padding: 11px 25px;
