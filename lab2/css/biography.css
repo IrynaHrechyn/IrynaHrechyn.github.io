@@ -34,33 +34,19 @@ h1 {
   background: linear-gradient(#176bef, royalblue 48%, blue 52%, #17d8f0);
 }
 	.button:hover {
-		text-decoration: none;
-		color:moccasin;
-		 font-style: none;
-  	        background-color: magenta;
-   	        border: 1px;
-		padding: 11px 25px;
-
-    display:block;
-	 border-style: solid;
-	 border-width: 1px;
-	 width: 170px;
-	 border-radius: 6px;
-	  
-	}
-	 .button:active {
-		 text-decoration: none;
-		color:tomato;
-		  font-style: none;
-    background-color: yellow;
-    border: 1px;
-	 padding: 11px 25px;
+    text-decoration: none;
+    background:  magenta;
+    color: navy;
+	border: 2px solid #ff4500;
+	border-radius: 5px;
+    }
+	 .button:active{
+    text-decoration: none;
+	background: yellow;
+    color: green; 
+	border: 2px solid #800080;
+	border-radius: 5px;
 	
-    display: block;
-	 border-style: solid;
-	 border-width: 1px;
-	 width: 170px;
-	 border-radius: 6px;
 	
 	}
 	 article {
