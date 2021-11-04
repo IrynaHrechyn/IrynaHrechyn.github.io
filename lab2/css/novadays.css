@@ -18,10 +18,13 @@ h1 {
 	ul>li:nth-child(even) {
 	 background-color:white;
 	}
-	.st:hover {
+	  ol>li:hover:nth-child(2n+3) {
     color:blue;
     cursor: default;
   }
    .veb {
     background-color:gray;
   }
+  #gl>li{
+   background-color: #333;
+	color: #fc0;
